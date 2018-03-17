@@ -876,7 +876,7 @@
     },
     "zeronet": {
         "branch": "master",
-        "revision": "31f19deb585fa5ab4b368166d512d274f02e3a93",
+        "revision": "dea04dbf5d4e37be36a29cba1efeb30116898644",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/zeronet_ynh"
     },
